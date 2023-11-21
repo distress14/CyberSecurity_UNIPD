@@ -223,6 +223,8 @@ ENG: ---------------------------------------------------------------------------
 
 If we make a mistake in entering an input, it will give us a FATAL ERROR SQL response = "Uncaught mysqli_sql_exception"
 
-[WEB Part_1 - Ajax - Console - Cookies(Privilege escalation)](<obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FWEB_Challenges%2FWEB%20Part_1%20-%20Ajax%20-%20Console%20-%20Cookies(Privilege%20escalation)>)
 
-WEB Part_3 TODO
+Next => WEB Part_3 TODO
+
+Previous => [WEB Part_1 - Ajax - Console - Cookies(Privilege escalation)](<obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FWEB_Challenges%2FWEB%20Part_1%20-%20Ajax%20-%20Console%20-%20Cookies(Privilege%20escalation)>)
+

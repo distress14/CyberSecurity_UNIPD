@@ -244,4 +244,4 @@ print(decoded2)
 
 At this point, decoded2 will be our flag: ALEXCTFTH15O1SO5UP3RO5ECR3TOTXT
 
-[Cryptography Part_2 - Caesar, Vigenere & Alphabet Chipers](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_2%20-%20Caesar%2C%20Vigenere%20%26%20Alphabet%20Chipers)
+Next => [Cryptography Part_2 - Caesar, Vigenere & Alphabet Chipers](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_2%20-%20Caesar%2C%20Vigenere%20%26%20Alphabet%20Chipers)

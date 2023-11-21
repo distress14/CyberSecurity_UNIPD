@@ -156,11 +156,11 @@ Good job ! You found the flag: INSA{TCP_s0ck3t_4n4lys1s_c4n_b3_fun!}
 ```
 
 
-[WEB Part_1 - Ajax - Console - Cookies(Privilege escalation)](<obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FWEB_Challenges%2FWEB%20Part_1%20-%20Ajax%20-%20Console%20-%20Cookies(Privilege%20escalation)>)
+Next => [WEB Part_1 - Ajax - Console - Cookies(Privilege escalation)](<obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FWEB_Challenges%2FWEB%20Part_1%20-%20Ajax%20-%20Console%20-%20Cookies(Privilege%20escalation)>)
 
 [If you want to keep practicing - PicoCTF](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FEasy%20CTFs%2FStarting%20with%20Cryptography%20CTFs%20-%20PicoCTF.org)
 
 [If you want to keep practicing - CTFLearn](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FEasy%20CTFs%2FStarting%20with%20Cryptography%20CTFs%20-%20CTFlearn.com)
 
-[Cryptography Part_3 - Hash Cracking - XOR - Algorithm Cryptoanalysis](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_3%20-%20Hash%20Cracking%20-%20XOR%20-%20Algorithm%20Cryptoanalysis)
+Previous => [Cryptography Part_3 - Hash Cracking - XOR - Algorithm Cryptoanalysis](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_3%20-%20Hash%20Cracking%20-%20XOR%20-%20Algorithm%20Cryptoanalysis)
 

@@ -512,6 +512,6 @@ decrypt(encrypt('Min0n!', 'Mu', 2), 'Mu', 2)
 We obtained the Flag = {Min0n!}
 
 
-[Cryptography Part_3 - Hash Cracking - XOR - Algorithm Cryptoanalysis](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_3%20-%20Hash%20Cracking%20-%20XOR%20-%20Algorithm%20Cryptoanalysis)
+Next => [Cryptography Part_3 - Hash Cracking - XOR - Algorithm Cryptoanalysis](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_3%20-%20Hash%20Cracking%20-%20XOR%20-%20Algorithm%20Cryptoanalysis)
 
-[Cryptography Part_1 - Book cipher - XOR - Base642ASCII](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_1%20-%20Book%20cipher%20-%20XOR%20-%20Base642ASCII)
+Previous => [Cryptography Part_1 - Book cipher - XOR - Base642ASCII](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FCryptography_Challenges%2FCryptography%20Part_1%20-%20Book%20cipher%20-%20XOR%20-%20Base642ASCII)

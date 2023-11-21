@@ -177,6 +177,6 @@ We notice that we have permissions, in this case user. We can change the latter 
 
 If we refresh the page, we will find our Flag = flag{C00ki3s_c4n_b33_ch4ng3d_?}
 
-[WEB Part_2 - Encrypted Ajax - Bruteforcing Cookies - Intro to SQLI](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FWEB_Challenges%2FWEB%20Part_2%20-%20Encrypted%20Ajax%20-%20Bruteforcing%20Cookies%20-%20Intro%20to%20SQLI)
+Next => [WEB Part_2 - Encrypted Ajax - Bruteforcing Cookies - Intro to SQLI](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FWEB_Challenges%2FWEB%20Part_2%20-%20Encrypted%20Ajax%20-%20Bruteforcing%20Cookies%20-%20Intro%20to%20SQLI)
 
 [Deepeing into SQL Injection](obsidian://open?vault=Default&file=GitHub%20Uploads%2FCyberSecurity_UNIPD%2FWEB_Challenges%2FCyberAttacks%2FWeb%20Attacks%2FSQL%20Injection%20-%20'%20OR%201%3D1)
